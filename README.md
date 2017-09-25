@@ -3,3 +3,4 @@ Loopy was a homework assignment that had 3 tasks. The first problem adds the inv
 
 WeatherStats takes in temperatures and sorts them into categories. If the number is over 120, it will not count it. When a non number is entered, it will catch the error and tell the user to type integers only. After a negative number is typed, it will tell you how many temperatures were in the: 100's, 90's, 80's, 70's, 60's, and below.
 
+This project takes the data from an airbnb file and it returns data. It will return the number of sessions, the highest dim session number, the total of all the numbers,  the average of all numbers, and the number of iphones used.
